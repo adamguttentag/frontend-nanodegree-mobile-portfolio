@@ -28,8 +28,9 @@ The assignment rubric can be viewed [here](https://www.udacity.com/course/viewer
 * Created thumbnail of /views/images/pizzeria.jpg in /img/ using grunt-resize-crop
 * Moved analytics.js call to after content renders
 * Replaced Google font stylesheet call with CSS that calls the font directly
-####PageSpeed Scores Achieved***
-* Tested by running "python -m SimpleHTTPServer 8080" in the build folder and "ngrok http 8080" to serve pages to PageSpeed
+* 
+####PageSpeed Scores Achieved
+Tested by running "python -m SimpleHTTPServer 8080" in the build folder and "ngrok http 8080" to serve pages to PageSpeed
 * Mobile: 96
 * Desktop: 97
 
